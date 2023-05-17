@@ -1,0 +1,40 @@
+
+
+body{
+    background-color: #eaf6f6;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    width: 30%;
+    height: 0px;
+    margin: auto;
+    border-width: 5px;
+}
+
+h1{
+    color: #66BFBF;
+}
+
+h3{
+    color: #66BFBF;
+}
+
+a:hover{
+    color: orange;
+}
+
+.highlight{
+    color: #0E8388;
+}
+
+#name:hover{
+    text-decoration-line: underline ;
+}
+
+#rd{
+    margin-top: 2%;
+    margin-left: 40%;
+}
