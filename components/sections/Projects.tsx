@@ -70,7 +70,7 @@ const projects: Project[] = [
       '5x dataset expansion via augmentation',
     ],
     tech: ['Python', 'TensorFlow', 'OpenCV', 'CNN'],
-    images: ['/projects/handwriting/1.jpg', '/projects/handwriting/2.jpg'],
+    images: ['/projects/handwriting/1.png', '/projects/handwriting/2.png'],
     github: 'https://github.com/Vijay9424/handwriting-analysis',
     year: '2023',
   },
