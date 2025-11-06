@@ -1,8 +1,6 @@
+import type { NextConfig } from 'next';
 
-//portfolio/next.config.ts
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {
+const nextConfig: NextConfig = {
   images: {
     domains: ['localhost', 'res.cloudinary.com', 'avatars.githubusercontent.com'],
     formats: ['image/avif', 'image/webp'],
@@ -10,6 +8,6 @@ const nextConfig = {
   experimental: {
     optimizePackageImports: ['lucide-react', 'react-icons'],
   },
-}
+};
 
-module.exports = nextConfig
+export default nextConfig;

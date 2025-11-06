@@ -88,3 +88,6 @@
 //     );
 //   }
 // }
+
+// This route is currently disabled
+export const runtime = 'edge'; // dummy export to make it a valid module
