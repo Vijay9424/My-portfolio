@@ -6,12 +6,12 @@ import Navbar from '@/components/features/Navbar';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'Your Name - Full Stack Developer Portfolio',
+  title: 'Vijay Malviya - Full Stack Developer Portfolio',
   description: 'Full Stack Developer specializing in React, Next.js, Node.js, and MongoDB. Building scalable, real-time applications with modern technologies.',
   keywords: 'full stack developer, react, next.js, node.js, mongodb, portfolio',
-  authors: [{ name: 'Your Name' }],
+  authors: [{ name: 'Vijay Malviya' }],
   openGraph: {
-    title: 'Your Name - Full Stack Developer Portfolio',
+    title: 'Vijay Malviya - Full Stack Developer Portfolio',
     description: 'Building scalable, real-time applications with modern full-stack technologies.',
     type: 'website',
   },
