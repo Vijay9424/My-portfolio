@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "title": "Instagram-Style Social Platform",
+    "subtitle": "Real-time Social Network",
+    "description": "Production social platform supporting 500+ concurrent users with real-time messaging, notifications, and activity feeds. Achieved 99.2% reliability with sub-100ms message delivery.",
+    "achievements": [
+      "40% latency reduction (2.8s → 1.7s)",
+      "60% database load reduction",
+      "45% API response optimization",
+      "99.8% uptime in production"
+    ],
+    "tech": ["Next.js", "Node.js", "Socket.IO", "MongoDB", "Redis", "AWS S3"],
+    "image": "/projects/social-platform.jpg",
+    "github": "https://github.com/Vijay9424/social-platform",
+    "live": "https://social-platform-demo.vercel.app",
+    "year": "2024",
+    "featured": true,
+    "category": "fullstack",
+    "highlights": [
+      "Engineered Socket.IO real-time flows with 99.2% success rate",
+      "Optimized MongoDB schemas with compound indexes",
+      "Implemented Redis cache-aside pattern with distributed locking",
+      "Orchestrated S3 uploads with Cloudinary transformations",
+      "Deployed across Vercel and Render with 99.8% uptime"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "NLP Emotion Detection API",
+    "subtitle": "Deep Learning Text Analysis",
+    "description": "Trained deep neural networks on 10,000+ labeled sentences achieving 94% accuracy across five emotion classes. Deployed as REST API handling 1,000+ requests/hour with 85ms latency.",
+    "achievements": [
+      "94% classification accuracy",
+      "85ms prediction latency",
+      "1,000+ requests/hour capacity",
+      "TensorFlow Lite optimization"
+    ],
+    "tech": ["Python", "TensorFlow", "Flask", "scikit-learn", "NLP"],
+    "image": "/projects/nlp-emotion.jpg",
+    "github": "https://github.com/Vijay9424/nlp-emotion",
+    "year": "2022",
+    "featured": true,
+    "category": "ml",
+    "highlights": [
+      "Complete preprocessing pipeline with tokenization and lemmatization",
+      "Word embeddings using GloVe 100D",
+      "SMOTE for class balancing",
+      "Batch prediction for bulk text analysis"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Handwriting Personality Prediction",
+    "subtitle": "CNN-based Analysis System",
+    "description": "Developed CNN pipeline for personality classification from handwriting samples. Created proprietary dataset with 500 samples and achieved 78% accuracy using ResNet architecture.",
+    "achievements": [
+      "78% prediction accuracy",
+      "5x dataset expansion via augmentation",
+      "Grad-CAM feature visualization",
+      "k-fold cross-validation"
+    ],
+    "tech": ["Python", "TensorFlow", "OpenCV", "CNN", "ResNet"],
+    "image": "/projects/handwriting.jpg",
+    "github": "https://github.com/Vijay9424/handwriting-analysis",
+    "year": "2023",
+    "featured": true,
+    "category": "ml",
+    "highlights": [
+      "Advanced image preprocessing with contrast normalization",
+      "Data augmentation with rotation, scaling, elastic deformation",
+      "ResNet-based classifier training",
+      "Feature importance analysis using Grad-CAM"
+    ]
+  }
+]
