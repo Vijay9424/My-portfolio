@@ -22,7 +22,7 @@ export default function Hero() {
         >
           <div className="relative w-32 h-32 md:w-40 md:h-40 mx-auto rounded-full overflow-hidden shadow-lg ring-4 ring-slate-100 dark:ring-slate-800">
             <Image
-              src="/profile.png"
+              src="/profile.JPG"
               alt="Vijay Malviya"
               fill
               className="object-cover"
